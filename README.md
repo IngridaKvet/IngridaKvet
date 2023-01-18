@@ -1,7 +1,7 @@
-Hi there 👋
-🔭 I’m currently working on Physics BS.
-🌱 I’m currently learning HTML, CSS and JS.
-⚡ Currently following The Odin Project's "Foundations" curriculum.
+Hi there 👋 <br>
+🔭 I’m currently working on Physics BS. <br>
+🌱 I’m currently learning HTML, CSS and JS. <br>
+⚡ Currently following The Odin Project's "Foundations" curriculum. <br>
 
 
 

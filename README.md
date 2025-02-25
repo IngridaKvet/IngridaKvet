@@ -1,4 +1,5 @@
 Hi there 👋 <br>
+😄 I'm recent physics BS graduate.
 🔭 I’m currently studying JS course in Vilnius Tech School. <br>
 🌱 I’m learning HTML, CSS and JS. <br>
 ⚡ Currently following The Odin Project's "Full Stack Javascript" curriculum. <br>

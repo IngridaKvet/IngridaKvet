@@ -1,6 +1,6 @@
 Hi there 👋 <br>
 😄 I'm recent physics BS graduate.
-🔭 I’m currently studying JS course in Vilnius Tech School. <br>
+🔭 I’m currently studying a fullstack JS course in Vilnius Tech School. <br>
 🌱 Also currently following The Odin Project's "Full Stack Javascript" curriculum. <br>
 
 
